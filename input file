@@ -33,7 +33,6 @@ public class Goodie_dilemma
 			int[] result = new int[2];
 			result[0]=array.length-1;
 			result[1]=sum-max;
-
 			return result;
 		}
 	}
